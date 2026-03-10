@@ -1,0 +1,20 @@
+Команды для регистрации данных 
+git config --global user.name "Hmelevskii"
+git config --global user.email "limon.u@mail.ru"
+
+Команды на одно устройство для одного проекта 
+git init 
+git remote add origin https://github.com/Hmelevskii/OOP-64-2.git
+
+команды для работы с гит 
+git status - состояние проекта 
+git add. - скопирование все в буфер обмена 
+git commit -m "lesson1" - сохранение
+git push origin master 
+ 
+ 
+git branch
+git branch name_branch
+git switch name_branch
+
+git switch -c name_branch
